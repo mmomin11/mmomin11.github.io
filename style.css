@@ -1,0 +1,11 @@
+.flex {
+  display: flex;
+}
+
+.titlepage {
+  justify-content: center;
+  background-color: red;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100px;
+}
