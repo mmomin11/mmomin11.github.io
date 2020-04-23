@@ -9,3 +9,8 @@
   font-family: 'Times New Roman', Times, serif;
   font-size: 100px;
 }
+
+.collapse {
+  display: flex;
+  justify-content: center;
+}
