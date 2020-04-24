@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #fff;
+  color: orange;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #ffc107;
+  color: white;
   text-decoration: underline;
 }
 
@@ -6067,7 +6067,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: black !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6077,13 +6077,13 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: rgb(218, 87, 0) !important;
+  background-color: black !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: rgb(218, 87, 0) !important;
+  background-color: black !important;
 }
 
 .bg-success {
@@ -9642,7 +9642,9 @@ button.bg-dark:focus {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-
+.text-left-left {
+  text-align: center !important;
+}
 .text-left {
   text-align: left !important;
 }
