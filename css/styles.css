@@ -543,8 +543,8 @@ pre code {
 
 .container {
   width: 100%;
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
+  padding-right: 0.0rem;
+  padding-left: 0.0rem;
   margin-right: auto;
   margin-left: auto;
 }
@@ -8801,7 +8801,7 @@ button.bg-dark:focus {
 
   .ml-lg-1,
 .mx-lg-1 {
-    margin-left: 0.25rem !important;
+    margin-left: 1.50rem !important;
   }
 
   .m-lg-2 {
@@ -10088,12 +10088,17 @@ h3 {
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
-  font-size: 2.75rem;
-  line-height: 2.75rem;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
 }
 .masthead .masthead-subheading {
   font-size: 1.25rem;
 }
+.masthead .masthead-subheading-subheading {
+  font-size: 1rem;
+  padding-top: 10px;
+}
+
 .masthead .masthead-avatar {
   width: 15rem;
 }
