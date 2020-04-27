@@ -9978,7 +9978,7 @@ h3 {
   max-width: 7rem;
   height: 0.25rem;
   background-color: black;
-  border-radius: 2rem;
+  border-radius: 1rem;
   border-color: black !important;
 }
 .divider-custom .divider-custom-line:first-child {
