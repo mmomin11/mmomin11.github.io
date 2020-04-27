@@ -9982,7 +9982,7 @@ h3 {
   border-color: black !important;
 }
 .divider-custom .divider-custom-line:first-child {
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 .divider-custom .divider-custom-line:last-child {
   margin-left: 1rem;
