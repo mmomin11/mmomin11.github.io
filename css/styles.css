@@ -2457,8 +2457,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
+  background-color: orange ;
+  border-color: orange;
 }
 .btn-primary:hover {
   color: #fff;
@@ -9758,7 +9758,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #2c3e50 !important;
+  color: black !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -9953,7 +9953,7 @@ h3 {
   }
 }
 .page-section {
-  padding: 6rem 0;
+  padding: 10rem 0;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
