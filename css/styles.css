@@ -10023,12 +10023,12 @@ h3 {
   width: 3.5rem;
   height: 3.5rem;
   background-color: rgba(33, 37, 41, 0.5);
-  line-height: 3.1rem;
+  line-height: 4.1rem;
 }
 
 #mainNav {
   padding-top: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
 }
